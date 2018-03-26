@@ -1,0 +1,1 @@
+`$ phpunit` It works out of the box!
